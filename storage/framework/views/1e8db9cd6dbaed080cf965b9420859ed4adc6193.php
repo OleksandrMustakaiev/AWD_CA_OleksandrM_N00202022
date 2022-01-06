@@ -1,0 +1,1 @@
+<?php /**PATH /Users/alexmus/Desktop/Advanced Web Development/Laravel/myCA/resources/views/register.blade.php ENDPATH**/ ?>
